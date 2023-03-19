@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Compiled files
+*.pyc
+
+# Dependency directories
+__pycache__/
+dist/
+build/
+*.egg-info/
